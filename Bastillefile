@@ -1,0 +1,13 @@
+INCLUDE https://github.com/jail-templates/basics
+INCLUDE https://github.com/jail-templates/vnstat
+INCLUDE https://github.com/jail-templates/apache-http
+INCLUDE https://github.com/jail-templates/apache-https
+INCLUDE https://github.com/jail-templates/php
+INCLUDE https://github.com/jail-templates/php-8.0
+INCLUDE https://github.com/jail-templates/php-8.1
+INCLUDE https://github.com/jail-templates/php-8.2
+INCLUDE https://github.com/jail-templates/php-8.3
+INCLUDE https://github.com/jail-templates/mariadb
+INCLUDE https://github.com/jail-templates/mariadb-10.5
+INCLUDE https://github.com/jail-templates/mariadb-10.6
+INCLUDE https://github.com/jail-templates/mariadb-10.11
