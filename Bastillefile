@@ -1,3 +1,14 @@
+
+########################################################################################
+# Copyright (c) 2023, Nozel, Sebas Veeke. All rights reserved.
+#
+# Licenced under a 3-Clause BSD License (https://opensource.org/license/bsd-3-clause).
+#
+# Contact:
+# > e-mail      mail@nozel.org
+# > GitHub      jail-templates
+########################################################################################
+
 INCLUDE https://github.com/jail-templates/basics
 INCLUDE https://github.com/jail-templates/vnstat
 INCLUDE https://github.com/jail-templates/apache-http
