@@ -13,3 +13,4 @@ INCLUDE https://github.com/jail-templates/mariadb-10.6
 INCLUDE https://github.com/jail-templates/mariadb-10.11
 INCLUDE https://github.com/jail-templates/famp-http
 INCLUDE https://github.com/jail-templates/famp-https
+INCLUDE https://github.com/jail-templates/wordpress
